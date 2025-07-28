@@ -27,4 +27,4 @@ A modern Flutter-based gaming discovery app where users can explore top PC/Conso
 
 ---
 
-> Created with ❤️ by [Your Name]
+> Created with ❤️ by Neetesh 
